@@ -1,0 +1,23 @@
+{
+  "nombre": "Juan Pérez",
+  "apellido": "López",
+  "edad": 21,
+  "sexo": "M",
+  "fecha_nacimiento": "1999-01-01",
+  "direccion": {
+    "calle": "Calle 1",
+    "numero": 123,
+    "colonia": "Colonia Centro",
+    "ciudad": "Ciudad de México",
+    "estado": "CDMX",
+    "pais": "México"
+  },
+  "telefonos": [
+    "+52 55 5555 5555",
+    "+52 55 5555 5556"
+  ],
+  "correos_electronicos": [
+    "juan.perez@example.com",
+    "juan.perez2@example.com"
+  ]
+}
