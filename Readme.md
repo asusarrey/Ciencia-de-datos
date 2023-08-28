@@ -1,4 +1,5 @@
 ## Curso: Ciencia de Datos Básico con Python
+### (Para grupo de intel.com)
 
 ### Descripción del curso:
 
